@@ -164,4 +164,6 @@ plt.ylabel('Training Examples')
 
 plt.tight_layout()
 
+plt.savefig("find_s_output.png")
+
 plt.show()
